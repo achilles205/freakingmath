@@ -37,3 +37,8 @@ On IOS
 
 More information in Libgdx: 
 https://github.com/libgdx/libgdx/wiki/Project-setup,-running-&-debugging
+
+----
+Visit Fanpage    : https://facebook.com/PremierPrimeStudio
+Follow Twitter   : https://twitter.com/ndh205
+Google+          : https://plus.google.com/+FrankNguyenVN
